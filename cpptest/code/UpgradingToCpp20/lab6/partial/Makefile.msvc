@@ -1,0 +1,22 @@
+CXXFLAGS= -std:c++latest -O2 -W4 -EHsc
+
+test: concat.exe perfect.exe
+	./concat.exe
+	./perfect.exe
+
+concat.exe: concat.obj
+	$(CXX) $(CXXFLAGS) $** -link -out:$@
+
+concat.obj: concat.cpp fixed_vector.hpp
+	$(CXX) $(CXXFLAGS) -c concat.cpp
+
+perfect.exe: perfect.obj
+	$(CXX) $(CXXFLAGS) $** -link -out:$@
+
+perfect.obj: perfect.cpp fixed_vector.hpp
+	$(CXX) $(CXXFLAGS) -c perfect.cpp
+
+clean:
+	del concat.exe concat.obj perfect.exe perfect.obj
+
+.PHONY: clean

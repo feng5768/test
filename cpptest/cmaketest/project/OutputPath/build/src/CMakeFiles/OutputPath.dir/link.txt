@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OutputPath.dir/main.cpp.o -o ../bin/OutputPath  ../lib/libSayHello.a 

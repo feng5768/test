@@ -1,0 +1,18 @@
+CXXFLAGS= -std:c++17 -O2 -W4 -EHsc
+
+test: tests.exe
+	./tests.exe
+
+tests.exe: main.obj
+	$(CXX) $(CXXFLAGS) $** -link -out:$@
+
+main.obj: main.cpp
+	$(CXX) $(CXXFLAGS) -c main.cpp
+
+bonus.exe: main-bonus.cpp
+	$(CXX) $(CXXFLAGS) -std:c++latest main-bonus.cpp -out:$@
+
+clean:
+	del main.obj tests.exe bonus.exe
+
+.PHONY: clean

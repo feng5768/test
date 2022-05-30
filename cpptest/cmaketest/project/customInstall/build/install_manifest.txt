@@ -1,0 +1,5 @@
+/home/zhenkong/cpptest/cmaketest/output/customInstall/copyright
+/home/zhenkong/cpptest/cmaketest/output/customInstall/readme
+/home/zhenkong/cpptest/cmaketest/output/customInstall/bin/run_custom_install.sh
+/home/zhenkong/cpptest/cmaketest/output/customInstall/share/doc/custom_install_doc.txt
+/home/zhenkong/cpptest/cmaketest/output/customInstall/bin/custome_install

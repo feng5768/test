@@ -1,0 +1,4 @@
+/home/zhenkong/cpptest/cmaketest/project/helloLibrary/build/CMakeFiles/hello_lib.dir
+/home/zhenkong/cpptest/cmaketest/project/helloLibrary/build/CMakeFiles/hello_main.dir
+/home/zhenkong/cpptest/cmaketest/project/helloLibrary/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/helloLibrary/build/CMakeFiles/rebuild_cache.dir

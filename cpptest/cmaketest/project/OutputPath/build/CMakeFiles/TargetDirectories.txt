@@ -1,0 +1,6 @@
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/CMakeFiles/rebuild_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/src/CMakeFiles/SayHello.dir
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/src/CMakeFiles/OutputPath.dir
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/src/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/OutputPath/build/src/CMakeFiles/rebuild_cache.dir

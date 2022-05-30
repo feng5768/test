@@ -1,0 +1,5 @@
+/home/zhenkong/cpptest/cmaketest/project/ExternalLib/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/ExternalLib/build/CMakeFiles/rebuild_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/ExternalLib/build/src/CMakeFiles/ExternalLib.dir
+/home/zhenkong/cpptest/cmaketest/project/ExternalLib/build/src/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/ExternalLib/build/src/CMakeFiles/rebuild_cache.dir

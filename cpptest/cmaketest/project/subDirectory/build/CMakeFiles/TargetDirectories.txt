@@ -1,0 +1,5 @@
+/home/zhenkong/cpptest/cmaketest/project/subDirectory/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/subDirectory/build/CMakeFiles/rebuild_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/subDirectory/build/hehe/CMakeFiles/sub_directory.dir
+/home/zhenkong/cpptest/cmaketest/project/subDirectory/build/hehe/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/subDirectory/build/hehe/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/home/zhenkong/cpptest/cmaketest/output/lib/liblinear.so.1.0
+/home/zhenkong/cpptest/cmaketest/output/lib/liblinear.so.1
+/home/zhenkong/cpptest/cmaketest/output/lib/liblinear.so
+/home/zhenkong/cpptest/cmaketest/output/lib/LibraryProperty/liblinear.a
+/home/zhenkong/cpptest/cmaketest/output/include/LibraryProperty/helloLib.h

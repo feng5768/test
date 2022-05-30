@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.8)
+project(HelloLib)
+add_library(hello_lib STATIC helloLib.cpp)
+include_directories(${PROJECT_SOURCE_DIR})
+add_executable(hello_main Main.cpp)
+target_link_libraries(hello_main hello_lib)

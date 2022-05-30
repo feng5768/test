@@ -1,0 +1,15 @@
+CXXFLAGS= -std:c++17 -O2 -W4 -EHsc
+
+test: tests.exe
+	./tests.exe
+
+tests.exe: main.obj
+	$(CXX) $(CXXFLAGS) $** -link -out:$@
+
+main.obj: main.cpp clone_ptr.hpp
+	$(CXX) $(CXXFLAGS) -c main.cpp
+
+clean:
+	del main.obj tests.exe
+
+.PHONY: clean

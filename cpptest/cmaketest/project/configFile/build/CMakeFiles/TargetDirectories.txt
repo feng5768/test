@@ -1,0 +1,2 @@
+/home/zhenkong/cpptest/cmaketest/project/configFile/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/configFile/build/CMakeFiles/rebuild_cache.dir

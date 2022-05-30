@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ExternalLib.dir/main.cpp.o -o ../bin/ExternalLib   -L/home/zhenkong/cpptest/cmaketest/output/lib/LibraryProperty  -Wl,-rpath,/home/zhenkong/cpptest/cmaketest/output/lib/LibraryProperty -Wl,-Bstatic -llinear -Wl,-Bdynamic 

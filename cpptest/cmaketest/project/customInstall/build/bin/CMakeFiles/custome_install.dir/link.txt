@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/custome_install.dir/main.cpp.o -o custome_install 

@@ -1,0 +1,5 @@
+/home/zhenkong/cpptest/cmaketest/project/HostSystemInfo/build/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/HostSystemInfo/build/CMakeFiles/rebuild_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/HostSystemInfo/build/src/CMakeFiles/hostSysInfo.dir
+/home/zhenkong/cpptest/cmaketest/project/HostSystemInfo/build/src/CMakeFiles/edit_cache.dir
+/home/zhenkong/cpptest/cmaketest/project/HostSystemInfo/build/src/CMakeFiles/rebuild_cache.dir

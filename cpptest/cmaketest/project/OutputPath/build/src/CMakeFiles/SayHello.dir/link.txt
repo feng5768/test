@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSayHello.a CMakeFiles/SayHello.dir/helloLib.cpp.o
+/usr/bin/ranlib ../lib/libSayHello.a
